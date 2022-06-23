@@ -1,5 +1,5 @@
 config:
-	info: dev
+  info: dev
 eureka:
   client:
     #表示是否将自己注册进EurekaServer默认为true。
